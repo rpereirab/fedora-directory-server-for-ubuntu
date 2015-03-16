@@ -1,0 +1,1 @@
+As part of the 2007 Google Summer of Code I'm helping to make Ubuntu more appealing for people who want to have LDAP authentication, by writing a program that automatically installs and configures the Fedora Directory Server.

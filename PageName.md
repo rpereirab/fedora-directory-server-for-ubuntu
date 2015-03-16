@@ -1,0 +1,3 @@
+# fedora-directory-server-for-ubuntu #
+
+Go here for more current info: http://docs.google.com/Doc?id=dhn546cx_8fhrxp8
